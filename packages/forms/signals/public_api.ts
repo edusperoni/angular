@@ -23,3 +23,5 @@ export * from './src/api/types';
 export * from './src/directive/form_field';
 export * from './src/directive/form_root';
 export * from './src/webmcp';
+
+export {InputValidityMonitor as ɵInputValidityMonitor} from './src/directive/input_validity_monitor';
